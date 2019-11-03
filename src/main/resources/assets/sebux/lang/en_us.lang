@@ -1,0 +1,10 @@
+## Creative Tabs
+itemGroup.sebux=Sebux
+
+# Blocks
+tile.sebux_ore.name=Sebux Ore
+
+# Items
+item.sebux_dust.name=Sebux Dust
+item.sebux_ingot.name=Sebux Ingot
+item.sebux_pickaxe.name=Sebux Pickaxe

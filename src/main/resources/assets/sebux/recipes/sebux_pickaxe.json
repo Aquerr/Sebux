@@ -1,0 +1,25 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "III",
+    " S ",
+    " S "  ],
+  "key": {
+    "S": [
+      {
+        "type": "forge:ore_dict",
+        "ore": "stick"
+      }
+    ],
+    "I": [
+      {
+        "item": "sebux:sebux_ingot",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sebux:sebux_pickaxe",
+    "data": 0
+  }
+}
